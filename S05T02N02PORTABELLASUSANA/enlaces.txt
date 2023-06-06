@@ -1,0 +1,2 @@
+https://spring.io/quickstart
+https://www.geeksforgeeks.org/spring-boot-crud-operations-using-mongodb/
